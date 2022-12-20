@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+.flex-wrapper {
+    flex: 1;
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero {
+    background-color: #1F2937;
+    display: flex ;
+
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    margin-top: auto;
+}
